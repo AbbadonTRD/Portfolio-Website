@@ -76,15 +76,15 @@ export const projects = [
     id: 1,
     title: "Software for Marketing Businesses called Starnite",
     des: "Explore the wonders of our Software Starnite.",
-    img: "/p1.svg",
+    img: "/picture1.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
     link: "/Coming Soon",
   },
   {
     id: 2,
-    title: "ltmedia's Instagram",
-    des: "check out the Instagram Page of ltmedia.",
-    img: "/p2.svg",
+    title: "Upcoming School Software",
+    des: "Also sick & tired of oldfashioned School-Software from the 1980's? The Solution will come Soon",
+    img: "/Picture2.svg",
     iconLists: [],
     link: "/https://www.instagram.com/ltmedia.ch/",
   },
@@ -116,9 +116,9 @@ export const testimonials = [
   },
   {
     quote:
-      "I was initially skeptical when Tiago offered to create a website for me without any upfront payment. However, I now understand his motivation. He was working to establish his reputation, and I'm more than willing to invest in another website with him.",
-    name: "Meliyah",
-    title: "Owner of Meliyahs Afro-shop",
+      "Tiago's work surpassed our expectations, demonstrating a level of expertise and creativity that perfectly aligned with our vision. His dedication to our project, despite the lack of immediate financial gain, spoke volumes about his character and professional ethics.",
+    name: "Carole",
+    title: "Co. Owner of Meliyahs Afro-shop",
   },
 ];
 
@@ -127,7 +127,7 @@ export const companies = [
     id: 1,
     name: "cloudinary",
     img: "/cloud.svg",
-    nameImg: "/cloudName.s65vg",
+    nameImg: "/cloudName.svg",
   },
   {
     id: 3,
@@ -167,7 +167,7 @@ export const workExperience = [
   },
   {
     id: 4,
-    title: "Owner of Leading Technologies - Media",
+    title: "Owner of ltmedia",
     desc: "As the founder of ltmedia, I specialize in mostly B2B software solutions.",
     className: "md:col-span-2",
     thumbnail: "/exp4.svg",
