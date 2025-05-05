@@ -78,16 +78,90 @@ export const projects = [
     des: "Explore the wonders of our Software Starnite.",
     img: "/picture1.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "/Coming Soon",
+    link: "https://www.instagram.com/ltmedia.ch/",
+    status: "in-progress",
   },
   {
     id: 2,
     title: "Upcoming School Software",
-    des: "Also sick & tired of oldfashioned School-Software from the 1980's? The Solution will come Soon",
+    des: "Also sick & tired of oldfashioned School-Software from the 1980's? The Solution will come Soon, in collaboration with my Schulen Frauenfeld.",
     img: "/Picture2.svg",
-    iconLists: [],
-    link: "/https://www.instagram.com/ltmedia.ch/",
+    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
+    link: "https://www.instagram.com/ltmedia.ch/",
+    status: "in-progress",
   },
+  {
+    id: 3,
+    title: "Learning Wizard",
+    des: "An interactive learning platform for students and educators",
+    img: "/Picture3.svg",
+    iconLists: ["/re.svg", "/ts.svg", "/tail.svg"],
+    link: "https://learningwizard.duneify.com/",
+    status: "completed",
+  },
+  {
+    id: 4,
+    title: "Quarantsize",
+    des: "Helped with the Launch, Website Creation, Email Marketing, Socailmedia Marketing, and SEO of a Clothing Brand using Shopify",
+    img: "/Picture4.svg",
+    iconLists: ["shopify bag.svg", "/ts.svg", "/tail.svg"],
+    link: "https://quarantsize.store/",
+    status: "completed",
+  },
+  {
+    id: 5,
+    title: "Starnite Construction Site",
+    des: "Landing page for Starnite software development progress",
+    img: "/Picture5.svg",
+    iconLists: ["/re.svg", "/ts.svg", "/tail.svg"],
+    link: "https://starnite.com/",
+    status: "completed",
+  },
+  {
+    id: 6,
+    title: "IT-Frauenfeld",
+    des: "IT services platform for Frauenfeld region",
+    img: "/Picture6.svg",
+    iconLists: ["/re.svg", "/ts.svg", "/tail.svg", "/Supabase Icon.svg"],
+    link: "https://it-frauenfeld.ch/",
+    status: "completed",
+  },
+  {
+    id: 7,
+    title: "Meliyah Afro Shop",
+    des: "Hair Salon website with booking system",
+    img: "/Picture7.svg",
+    iconLists: ["/re.svg", "/ts.svg", "/tail.svg", "/Supabase Icon.svg"],
+    link: "https://meliyahafrohair.ch/",
+    status: "in-progress",
+  },
+  {
+    id: 8,
+    title: "Tiago Carvalho Swisscom Site",
+    des: "Internal Website for Project Application development project for Swisscom",
+    img: "/Picture8.svg",
+    iconLists: ["/re.svg", "/ts.svg", "/tail.svg"],
+    link: "https://tiago-carvalho.ch/",
+    status: "completed",
+  },
+  {
+    id: 9,
+    title: "LT&M Website",
+    des: "Corporate website for LT&M media agency",
+    img: "/Picture9.svg",
+    iconLists: ["/re.svg", "/ts.svg", "/tail.svg"],
+    link: "https://ltmedia.ch/",
+    status: "in-progress",
+  },
+  {
+    id: 10,
+    title: "Personal Portfolio for Jon Lumi",
+    des: "Custom portfolio website showcasing Jon Lumi's work and achievements",
+    img: "/Picture10.svg",
+    iconLists: ["/re.svg", "/ts.svg", "/tail.svg"],
+    link: "https://jonlumi.com/",
+    status: "in-progress",
+  }
 ];
 
 export const testimonials = [
@@ -175,7 +249,7 @@ export const workExperience = [
 ];
 
 export const socialMedia = [
-  {
+  { 
     id: 1,
     img: "/git.svg",
     link: "https://www.instagram.com/ltmedia.ch/"
