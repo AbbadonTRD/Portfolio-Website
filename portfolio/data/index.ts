@@ -1,5 +1,3 @@
-import { link } from "fs";
-
 export const navItems = [
   { name: "About", link: "#about" },
   { name: "Projects", link: "#projects" },
@@ -83,12 +81,12 @@ export const projects = [
   },
   {
     id: 2,
-    title: "Upcoming School Software",
-    des: "Frustrated with outdated school software from the 1980s? A modern solution is on its way, developed in collaboration with Schulen Frauenfeld.",
+    title: "School Project",
+    des: "A project for school that I am currently working on",
     img: "/Picture2.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "https://www.instagram.com/ltmedia.ch/",
-    status: "in-progress",
+    link: "https://jobmatch.fun/",
+    status: "completed",
   },
   {
     id: 3,
@@ -110,11 +108,11 @@ export const projects = [
   },
   {
     id: 5,
-    title: "Starnite Construction Site",
-    des: "Currently under construction: Starnite, our all-in-one CRM for Marketing & Media.",
+    title: "Vibe Coded Construction Site",
+    des: "Landing page for Starnite software development progress",
     img: "/Picture5.svg",
     iconLists: ["/re.svg", "/ts.svg", "/tail.svg"],
-    link: "https://starnite.com/",
+    link: "https://create-modern-under-4tqb.bolt.host/",
     status: "completed",
   },
   {
@@ -132,8 +130,8 @@ export const projects = [
     des: "A booking website for a local Afro hair salon, emphasizing exceptional UX and UI.",
     img: "/Picture7.svg",
     iconLists: ["/re.svg", "/ts.svg", "/tail.svg", "/Supabase Icon.svg"],
-    link: "https://meliyahafrohair.ch/",
-    status: "in-progress",
+    link: "https://meliyahafroshop.com",
+    status: "done",
   },
   {
     id: 8,
@@ -146,12 +144,12 @@ export const projects = [
   },
   {
     id: 9,
-    title: "LT&M Website",
-    des: "Cooperate Website for lt&m showcasing our services and expertise.",
-    img: "/Picture9.svg",
-    iconLists: ["/re.svg", "/ts.svg", "/tail.svg", "/Flamelink.svg", "/vite.svg"],
-    link: "https://ltmedia.ch/",
-    status: "in-progress",
+    title: "Starnite Website",
+    des: "Corporate website for Starnite software",
+    img: "Screenshot 2025-08-28 164933.png",
+    iconLists: ["/re.svg", "/ts.svg", "/tail.svg"],
+    link: "https://starnite.ch/",
+    status: "completed",
   },
   {
     id: 10,
@@ -174,7 +172,7 @@ export const testimonials = [
   {
     quote:
       "Collaborating with Tiago was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Tiago's enthusiasm for every facet of development & Marketing truly stands out. If you're seeking to elevate your website and elevate your brand, Tiago is the ideal partner.",
-    name: "Michael Johnson",
+    name: "M",
     title: "Director of AlphaStream Technologies",
   },
   {
@@ -229,21 +227,21 @@ export const workExperience = [
   {
     id: 2,
     title: "Developer Digital Business",
-    desc: "Expanding my skills as a Developer for Digital Businesses EFZ during my apprenticeship at Swisscom AG, Switzerland’s leading IT and telecommunications company. I am also engaged as a Scrum Master on a key project.",
+    desc: "Expanding my expertise as a trainee at Swisscom AG, Switzerland's leading IT and Telecommunication company, in the role of Developer for Digital Businesses EFZ. Engaged in a confidential Project which is redefining how Swisscom operates",
     className: "md:col-span-2",
     thumbnail: "/exp2.svg",
   },
   {
     id: 3,
     title: "Starnite Creator",
-    desc: "Our flagship product, STARNITE®, is set to revolutionize marketing & media management with AI-driven automation, intuitive content planning, and deep analytics. It’s more than software—it’s a catalyst for growth for companies and freelancers seeking to enhance their digital presence.",
+    desc: "LOOKING TO SECURE FUNDING FOR THE NEXT PHASE OF DEVELOPMENT, INCLUDING AI INTEGRATION AND MARKET EXPANSION. BE PART OF INNOVATION. ",
     className: "md:col-span-2",
     thumbnail: "/exp3.svg",
   },
   {
     id: 4,
-    title: "Founder of lt&m",
-    desc: "As the founder of lt&m, I specialize in website development, marketing, SEO, and innovative software solutions. My focus is on delivering exceptional services that drive client satisfaction and success.",
+    title: "Owner of ltmedia",
+    desc: "As the founder of lt&m, I specialize in mostly SaaS and custom Websites.",
     className: "md:col-span-2",
     thumbnail: "/exp4.svg",
   },
