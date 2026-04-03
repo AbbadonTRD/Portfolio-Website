@@ -72,11 +72,11 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "Software for Marketing Businesses called Starnite",
-    des: "All in one CRM for everyone. Currently in development, but you can already sign up for the beta version.",
-    img: "/picture1.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "https://www.instagram.com/ltmedia.ch/",
+    title: "Carvalho Recruiting",
+    des: "Recruiting site for carvalho-recruiting.ch",
+    img: "/carvalho-hero.png",
+    iconLists: ["/re.svg", "/ts.svg", "/tail.svg", "/vite.svg"],
+    link: "https://carvalho-recruiting.ch/",
     status: "in-progress",
   },
   {
@@ -153,11 +153,11 @@ export const projects = [
   },
   {
     id: 10,
-    title: "Personal Portfolio for Jon Lumi",
-    des: "Custom portfolio website showcasing Jon Lumi's work and achievements.",
-    img: "/Picture10.svg",
-    iconLists: ["/re.svg", "/ts.svg", "/tail.svg", "/vite.svg"],
-    link: "https://jonlumi.com/",
+    title: "Software for Marketing Businesses called Starnite",
+    des: "All in one CRM for everyone. Currently in development, but you can already sign up for the beta version.",
+    img: "/picture1.svg",
+    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
+    link: "https://www.instagram.com/ltmedia.ch/",
     status: "in-progress",
   }
 ];
@@ -172,8 +172,8 @@ export const testimonials = [
   {
     quote:
       "Collaborating with Tiago was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Tiago's enthusiasm for every facet of development & Marketing truly stands out. If you're seeking to elevate your website and elevate your brand, Tiago is the ideal partner.",
-    name: "M",
-    title: "Director of AlphaStream Technologies",
+    name: "Mohamed El Saidi",
+    title: "System engineer from Neobix",
   },
   {
     quote:
@@ -182,9 +182,9 @@ export const testimonials = [
     title: "Customer Manager & Team leader of Forever",
   },
   {
-    quote: "I was struggling to get my business noticed online until I started working with Tiago for SEO. His approach to search engine optimization is nothing short of transformative. Within months, I saw a significant increase in organic traffic to my website and a boost in my search engine rankings. What impressed me most was Tiago's ability to explain complex SEO concepts in a way that I could understand and implement.",
-    name: "Tanja Pichler",
-    title: "Owner of Demakos & Baurausch"
+    quote: "Working with Tiago to build our new site was a game changer for our business. He perfectly captured our vision and delivered a modern, professional platform that positions us effectively to connect top talent with great companies. Highly recommended!",
+    name: "Joyce Paola",
+    title: "Founder of Carvalho Recruiting"
   },
   {
     quote:
