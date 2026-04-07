@@ -177,8 +177,8 @@ export const testimonials = [
   },
   {
     quote:
-      "I can't speak highly enough of Tiago's work. As a non-tech-savvy business owner, I was apprehensive about the website creation process. Tiago made it seamless and stress-free, patiently explaining each step and incorporating my feedback.",
-    name: "Joyce Paola Carvalho",
+      "Im pretty good at what i do lol",
+    name: "Tiago",
     title: "Customer Manager & Team leader of Forever",
   },
   {
