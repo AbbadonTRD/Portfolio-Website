@@ -21,6 +21,7 @@ A modern, responsive website for LinkedIN Applications built with React.js.
 
 
 ## 📸 Screenshots
+![Uploading grafik.png…]()
 
 
 Built with ❤️
